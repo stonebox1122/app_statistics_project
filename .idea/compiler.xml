@@ -11,6 +11,7 @@
         <module name="app_logs_common" />
         <module name="app_logs_flume" />
         <module name="app_logs_hive" />
+        <module name="app_logs_visualize_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="app_logs_common" target="1.7" />
       <module name="app_logs_flume" target="1.7" />
       <module name="app_logs_hive" target="1.7" />
+      <module name="app_logs_visualize_web" target="1.7" />
       <module name="app_statistics_project" target="1.5" />
     </bytecodeTargetLevel>
   </component>

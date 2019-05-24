@@ -12,6 +12,9 @@
         <module>app_logs_common</module>
         <module>app_logs_client</module>
         <module>app_logs_collect_web</module>
+        <module>app_logs_flume</module>
+        <module>app_logs_hive</module>
+        <module>app_logs_visualize_web</module>
     </modules>
 
     
